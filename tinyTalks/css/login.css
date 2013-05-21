@@ -1,0 +1,53 @@
+#logininsidePage{
+	position:relative;
+	top:100px;
+	width:1060px;
+	height:440px;
+	margin-left:auto;
+	margin-right:auto;
+	background-image:url("../images/backboardsmall.png");
+	background-repeat: no-repeat;
+}
+#loginloginBoxOut{
+	position:relative;
+	top:80px;
+	left: 150px;
+}
+#inforbar{
+	background-image:url("../images/inforbar.png");
+	background-repeat: no-repeat;
+	margin-left:auto;
+	margin-right:auto;
+	width:408px;
+	height:40px;
+	position:relative;
+	top:30px;
+}
+#infor{
+	position:relative;
+	top:10px;
+	left:80px;
+	color:white;
+	font-family:"New Times Roman";	
+}
+
+#loginTip{
+	font-size: 2em;
+}
+.textinput{
+	background-color:#f0f0f0;
+	border:1px solid #dbdbdb;
+	padding:5px;
+	-webkit-border-radius:7px;
+	-moz-border-radius:7px;
+	color: #000;
+	font-style:italic;
+	font-weight:bold;
+	font-size: 1.5em;
+}
+#copyrights{
+	position:relative;
+	top:100px;
+	left:40px;
+
+}

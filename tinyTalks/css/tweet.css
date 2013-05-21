@@ -1,0 +1,284 @@
+.replybox{
+	position:relative;
+	top:-1em;
+	left:4.5em;
+}
+.replyboxupper{
+	position:relative;
+	top:1em;
+	left:4.5em;
+}
+.replyboxupperleft{
+	position:relative;
+	top:1em;
+	left:-4em;
+}
+.replyboxupperright{
+	position:relative;
+	top:0em;
+	left:17.5em;
+}
+.replyboxlower{
+	position:relative;
+	width:380px;
+	top:1.2em;
+	left:4.5em;
+}
+#tweetpagetweet{
+        background-image:url("../images/tweetmainbox.png");
+        background-repeat: no-repeat;
+	width:520px;	
+	height:220px;	
+	position:relative;
+	top:2em;
+	left:3.5em;
+}
+#searchbuttonarea{
+	position:relative;
+	top:-2em;
+	left:24em;
+	width:100%;
+	height:100%;
+}
+#reply{
+	position:relative;
+	top:2em;
+	left:1em;
+}
+#replytable{
+        background-image:url("../images/registerbox.png");
+	position:relative;
+	top:80em;
+	left:20em
+	width:100%;
+	height:100%;
+}
+.tweetpagebox{
+        position:relative;
+        top:4.2em;
+        left:3.5em;
+}
+.tweetpageboxupper{
+        position:relative;
+        top:-4.2em;
+        left:-1em;
+	width:420px;
+	font-size:1.1em;
+}
+.tweetpageboxlower{
+        position:relative;
+        top:1.2em;
+        left:-1em;
+}
+.tweetpageboxlowerleft{
+}
+.tweetpageboxlowerright{
+        position:relative;
+        top:-1.2em;
+        left:17em;
+}
+#tweetmiddle{
+        position:relative;
+        top:1.2em;
+}
+#insidePage{
+        background-image:url("../images/tranbackground.png");
+        background-repeat: no-repeat;
+        width:1024px;
+        height:900px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#tweet{
+        width:5em;
+        height:4em;
+        top:1.2em;
+        left:0.5em;
+        float:left;
+        text-align:center;
+        font-size:1.2em;
+}
+.numnum{
+        position:relative;
+        top:0.1em;
+}
+.numtips{
+        position:relative;
+        top:-2.2em;
+        font-size:0.9em;
+        font-family:"New Times Roman";
+}
+#tweettable{
+        width:700px;
+        height:860px;
+        margin:0;
+        padding:0;
+        background-image:url("../images/tweetbox.png");
+        background-repeat: no-repeat;
+        float:right;
+        position:relative;
+        top:-31.5em;
+        left:1.5em;
+}
+#tweettitle{
+        position:relative;
+        top:1em;
+	left:-2em;
+        width:550px;
+        margin-left:auto;
+        margin-right:auto;
+}
+#tweettitletext{
+        position:relative;
+        top:0em;
+        left:25em;
+}
+#tweettile{
+	float:right;
+	float:bottom;
+	position:relative;
+	right:8em;
+}
+.tweetbox{
+	position:relative;
+	left:-2em;
+        width:550px;
+        margin-left:auto;
+        margin-right:auto;
+	height:100%;
+}
+.tweetboxupper{
+	padding:1em;
+}
+.tweetboxupperleft{
+	float:left;
+}
+	
+.tweetboxupperright{
+	float:right;
+}
+.tweetboxlower{
+	padding:1em;
+        border-bottom:1.5px solid BLACK;
+}
+#copyrights{
+	position:relative;
+	top:35em;
+}
+#lefttop{
+	position:relative;
+	top:-1em;
+	left:-2em;
+}
+#home{
+	background-image:url("../images/home.png");
+	background-repeat:no-repeat;
+	width:40px;
+	height:40px;
+	margin-right:4em;
+}
+#homedown{
+	background-image:url("../images/homedown.png");
+	background-repeat:no-repeat;
+	width:40px;
+	height:40px;
+	margin-right:4em;
+}
+#home:hover{
+	background-image:url("../images/homedown.png");
+	background-repeat:no-repeat;
+}
+#topic{
+	background-image:url("../images/talk.png");
+	background-repeat:no-repeat;
+	width:40px;
+	height:40px;
+	margin-right:4em;
+}
+#topicdown{
+	background-image:url("../images/talkdown.png");
+	background-repeat:no-repeat;
+	width:40px;
+	height:40px;
+	margin-right:4em;
+}
+#topic:hover{
+	background-image:url("../images/talkdown.png");
+	background-repeat:no-repeat;
+}
+#people{
+	margin-right:4em;
+	background-image:url("../images/person.png");
+	background-repeat:no-repeat;
+	width:40px;
+	height:40px;
+}
+#peopledown{
+	margin-right:4em;
+	background-image:url("../images/persondown.png");
+	background-repeat:no-repeat;
+	width:40px;
+	height:40px;
+}
+#people:hover{
+	background-image:url("../images/persondown.png");
+	background-repeat:no-repeat;
+}
+.lefttip{
+	color:white;
+	font-size:1.5em;
+	position:relative;
+	top:-0.8em;
+}
+#settings{
+	position:relative;
+	top:-8em;
+}
+#senttweettable{
+        background-image:url("../images/registerbox.png");
+        background-repeat: no-repeat;
+        width:20em;
+        height:20em;
+        position: relative;
+        top:-3em;
+        left:1em;
+}
+.textfield{
+	position:relative;
+	left:1.5em;
+	top:1.5em;
+}
+#sendbutton{
+	position:relative;
+	top:2em;
+	left:12.5em;
+}
+#search{
+	position:relative;
+	top:-5.5em;
+	left:45em;
+	width:100%;
+	height:100%;
+}
+#searchbutton{
+	border-style:none;
+	width:35px;
+	height:35px;
+	background:none;
+        background-image:url("../images/search.png");
+        background-repeat: no-repeat;
+}
+#searchbutton:active{
+        background-repeat: no-repeat;
+        background-image:url("../images/searchdown.png");
+		
+}
+#tweettable{
+	position:relative;
+	top:2em;
+	left:-6em;
+}
+#copyrights{
+	position:relative;
+	top:52em;
+}

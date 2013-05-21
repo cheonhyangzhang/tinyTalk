@@ -1,0 +1,26 @@
+#insidePage{
+        background-image:url("../images/tranbackground.png");
+        background-repeat: no-repeat;
+        width:1024px;
+        height:900px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#tweettable{
+        width:700px;
+        height:860px;
+        margin:0;
+        padding:0;
+        background-image:url("../images/tweetbox.png");
+        background-repeat: no-repeat;
+        float:right;
+        position:relative;
+        top:2em;
+        left:-8.5em;
+}
+#tweetmiddle{
+        position:relative;
+        top:2em;
+        left:3em;
+	
+}
